@@ -8,6 +8,7 @@ let juliokayak = {
   aptitudes: {
     languages: ["JavaScript", "HTML", "CSS", "React", "Redux", "Java", "MySQL", "JSON"],
     tools: ["Git", "Jira", "Redmine", "Jenkins", "Sonar", "Bamboo", "Visual Studio Code", "IntelliJ IDEA", "DataGrip", "Postman"]
-  }
+  },
+  hobbies: ["canoeing", "volleyball", "web development"],
 }
 ```

@@ -1,4 +1,4 @@
-`juliokayak = {
+juliokayak = {
   name: "José Julio Villanueva Rodríguez",
   age: 24,
   gender: "male",
@@ -9,4 +9,3 @@
   },
   unemployed: false
 }
-`

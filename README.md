@@ -12,9 +12,9 @@ let juliokayak = {
   unemployed: false,
   last_degree: "Graduated in Computer Engineering - Mention in Software Engineering @ University of A Coruña (UDC)"
   aptitudes: {
-    languages: ["JavaScript", "HTML", "CSS", "Java", "MySQL", "JSON"],
+    languages: ["TypeScript","JavaScript", "HTML", "CSS", "Java", "MySQL", "JSON", "OCamel"],
     frameworks: ["React", "Redux", "Maven"]
-    tools: ["Git", "Jira", "Redmine", "Jenkins", "Sonar", "Bamboo", "VS Code", "IntelliJ IDEA", "DataGrip", "Postman"]
+    tools: ["Git", "GitHub", "Jira", "Redmine", "Jenkins", "Sonar", "Bamboo", "VS Code", "IntelliJ IDEA", "DataGrip", "Postman"]
   },
   hobbies: ["canoeing", "volleyball", "web development"],
 }

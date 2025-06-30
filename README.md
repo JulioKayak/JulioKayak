@@ -6,7 +6,7 @@ Currently working as front-end developer at atSistemas.
 ```
 let juliokayak = {
   name: "José Julio Villanueva Rodríguez",
-  age: 24,
+  age: 27,
   gender: "male",
   country: "Spain",
   unemployed: false,
@@ -20,11 +20,3 @@ let juliokayak = {
 }
 ```
 ***
-<details>
-<summary>✨Github stats✨ </summary>
-<br />
-
-![JulioKayak's github stats](https://github-readme-stats.vercel.app/api?username=juliokayak&count_private=true&show_icons=true&theme=cobalt)
-
-###### (pls don't laught at me, im starting😜)
-</details>
